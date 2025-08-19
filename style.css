@@ -1,0 +1,27 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:#0f172a;color:#e2e8f0}
+.container{max-width:900px;margin:0 auto;padding:24px}
+header h1{margin:0 0 6px;font-size:28px}
+.subtitle{opacity:.8;margin:0 0 14px}
+.controls{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin:16px 0 24px}
+.controls label{display:flex;gap:8px;align-items:center;background:#111827;border:1px solid #1f2937;border-radius:12px;padding:10px 12px}
+.controls select{flex:1;background:#0b1220;color:#e2e8f0;border:1px solid #334155;border-radius:8px;padding:6px}
+.controls button{padding:10px 12px;border-radius:10px;border:1px solid #334155;background:#1f2937;color:#e2e8f0;cursor:pointer}
+.controls button.ghost{background:transparent}
+.card{background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:20px}
+.hidden{display:none}
+.prompt{font-size:28px;font-weight:600;margin:4px 0 12px;letter-spacing:.2px}
+.answer{font-size:22px;margin:8px 0 12px;opacity:.95}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}
+.actions button{padding:10px 14px;border-radius:10px;border:1px solid #334155;background:#1f2937;color:#e2e8f0;cursor:pointer}
+.leitner button{border:1px solid #334155}
+.leitner button.bad{background:#7f1d1d}
+.leitner button.hard{background:#78350f}
+.leitner button.good{background:#065f46}
+.leitner button.easy{background:#064e3b}
+#mcqBox{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:12px 0}
+#mcqBox button{padding:12px;border-radius:10px;border:1px solid #334155;background:#0f172a;color:#e2e8f0;cursor:pointer;text-align:left}
+#typeBox{display:flex;gap:10px;align-items:center;margin:12px 0}
+#typed{flex:1;padding:10px 12px;border-radius:10px;border:1px solid #334155;background:#0f172a;color:#e2e8f0}
+#typedFeedback{margin-left:6px;opacity:.9}
+.progress{opacity:.8;margin-top:10px}
+footer{margin-top:24px;opacity:.7}

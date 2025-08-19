@@ -1,0 +1,2530 @@
+{
+  "words": [
+    {
+      "id": "1-01",
+      "chapter": 1,
+      "lt": "Labas rytas!",
+      "tl": "Magandang umaga!"
+    },
+    {
+      "id": "1-02",
+      "chapter": 1,
+      "lt": "Laba diena!",
+      "tl": "Magandang araw!"
+    },
+    {
+      "id": "1-03",
+      "chapter": 1,
+      "lt": "Labas vakaras!",
+      "tl": "Magandang gabi!"
+    },
+    {
+      "id": "1-04",
+      "chapter": 1,
+      "lt": "Viso gero!",
+      "tl": "Paalam!"
+    },
+    {
+      "id": "1-05",
+      "chapter": 1,
+      "lt": "Iki pasimatymo!",
+      "tl": "Hanggang sa muli!"
+    },
+    {
+      "id": "1-06",
+      "chapter": 1,
+      "lt": "Atsiprašau!",
+      "tl": "Paumanhin! / Pasensya na!"
+    },
+    {
+      "id": "1-07",
+      "chapter": 1,
+      "lt": "Nieko tokio!",
+      "tl": "Wala iyon! / Okay lang!"
+    },
+    {
+      "id": "1-08",
+      "chapter": 1,
+      "lt": "Ačiū.",
+      "tl": "Salamat."
+    },
+    {
+      "id": "1-09",
+      "chapter": 1,
+      "lt": "Prašom.",
+      "tl": "Walang anuman."
+    },
+    {
+      "id": "1-10",
+      "chapter": 1,
+      "lt": "Koks tavo vardas?",
+      "tl": "Ano ang pangalan mo?"
+    },
+    {
+      "id": "1-11",
+      "chapter": 1,
+      "lt": "Mano vardas yra ...",
+      "tl": "Ang pangalan ko ay ..."
+    },
+    {
+      "id": "1-12",
+      "chapter": 1,
+      "lt": "Malonu.",
+      "tl": "Ikinagagalak."
+    },
+    {
+      "id": "1-20",
+      "chapter": 1,
+      "lt": "vardas",
+      "tl": "pangalan"
+    },
+    {
+      "id": "1-21",
+      "chapter": 1,
+      "lt": "pavardė",
+      "tl": "apelyido"
+    },
+    {
+      "id": "1-22",
+      "chapter": 1,
+      "lt": "studentas / studentė",
+      "tl": "estudyante"
+    },
+    {
+      "id": "1-23",
+      "chapter": 1,
+      "lt": "dėstytojas / dėstytoja",
+      "tl": "guro / propesor"
+    },
+    {
+      "id": "1-24",
+      "chapter": 1,
+      "lt": "taip",
+      "tl": "oo"
+    },
+    {
+      "id": "1-25",
+      "chapter": 1,
+      "lt": "ne",
+      "tl": "hindi"
+    },
+    {
+      "id": "1-26",
+      "chapter": 1,
+      "lt": "čia",
+      "tl": "dito"
+    },
+    {
+      "id": "1-27",
+      "chapter": 1,
+      "lt": "šalis",
+      "tl": "bansa"
+    },
+    {
+      "id": "1-28",
+      "chapter": 1,
+      "lt": "miestas",
+      "tl": "lungsod"
+    },
+    {
+      "id": "1-29",
+      "chapter": 1,
+      "lt": "gyventojas / gyventoja",
+      "tl": "naninirahan"
+    },
+    {
+      "id": "1-30",
+      "chapter": 1,
+      "lt": "Amerika – amerikietis/amerikietė",
+      "tl": "Amerika – Amerikano/Amerikana"
+    },
+    {
+      "id": "1-31",
+      "chapter": 1,
+      "lt": "Filipinai – filipinietis/filipinietė",
+      "tl": "Pilipinas – Pilipino/Pilipina"
+    },
+    {
+      "id": "1-32",
+      "chapter": 1,
+      "lt": "Lietuva – lietuvis/lietuve",
+      "tl": "Litwaniya – Litwano/Litwana"
+    },
+    {
+      "id": "1-33",
+      "chapter": 1,
+      "lt": "Prancūzija – prancūzas/prancūzė",
+      "tl": "Pransya – Pranses/Pransesa"
+    },
+    {
+      "id": "1-34",
+      "chapter": 1,
+      "lt": "Vokietija – vokietis/vokietė",
+      "tl": "Alemanya – Aleman/Alemana"
+    },
+    {
+      "id": "2-01",
+      "chapter": 2,
+      "lt": "Kaip sekasi?",
+      "tl": "Kamusta?"
+    },
+    {
+      "id": "2-02",
+      "chapter": 2,
+      "lt": "Ačiū, gerai! O kaip jums?",
+      "tl": "Salamat, mabuti! Kayo po?"
+    },
+    {
+      "id": "2-03",
+      "chapter": 2,
+      "lt": "Ačiū, gerai! O kaip tau?",
+      "tl": "Salamat, mabuti! Ikaw?"
+    },
+    {
+      "id": "2-04",
+      "chapter": 2,
+      "lt": "Puikiai!",
+      "tl": "Magaling!"
+    },
+    {
+      "id": "2-05",
+      "chapter": 2,
+      "lt": "Labai gerai!",
+      "tl": "Napakabuti!"
+    },
+    {
+      "id": "2-06",
+      "chapter": 2,
+      "lt": "Šiaip sau.",
+      "tl": "Medyo lang / so‑so."
+    },
+    {
+      "id": "2-07",
+      "chapter": 2,
+      "lt": "Blogai.",
+      "tl": "Masama ang lagay."
+    },
+    {
+      "id": "2-08",
+      "chapter": 2,
+      "lt": "Iš kur jūs esate?",
+      "tl": "Taga saan po kayo?"
+    },
+    {
+      "id": "2-09",
+      "chapter": 2,
+      "lt": "Aš esu iš Vokietijos.",
+      "tl": "Ako ay mula sa Alemanya."
+    },
+    {
+      "id": "2-10",
+      "chapter": 2,
+      "lt": "Iš kur tu esi?",
+      "tl": "Taga saan ka?"
+    },
+    {
+      "id": "2-11",
+      "chapter": 2,
+      "lt": "Aš esu iš Amerikos, iš Niujorko.",
+      "tl": "Ako ay mula sa Amerika, mula sa New York."
+    },
+    {
+      "id": "2-12",
+      "chapter": 2,
+      "lt": "Čia mano draugas Paulius.",
+      "tl": "Ito ang kaibigan kong si Paulius."
+    },
+    {
+      "id": "2-13",
+      "chapter": 2,
+      "lt": "Malonu.",
+      "tl": "Ikinagagalak."
+    },
+    {
+      "id": "2-14",
+      "chapter": 2,
+      "lt": "Ar tu supranti lietuviškai?",
+      "tl": "Naiintindihan mo ba ang Litwano?"
+    },
+    {
+      "id": "2-15",
+      "chapter": 2,
+      "lt": "Taip, truputį suprantu.",
+      "tl": "Oo, kaunti lang ang naiintindihan ko."
+    },
+    {
+      "id": "2-16",
+      "chapter": 2,
+      "lt": "Ar tu kalbi angliškai?",
+      "tl": "Nagsasalita ka ba ng Ingles?"
+    },
+    {
+      "id": "2-17",
+      "chapter": 2,
+      "lt": "Ne, nekalbu.",
+      "tl": "Hindi, hindi ako nagsasalita."
+    },
+    {
+      "id": "2-18",
+      "chapter": 2,
+      "lt": "Aš kalbu lietuviškai ir angliškai.",
+      "tl": "Nagsasalita ako ng Litwano at Ingles."
+    },
+    {
+      "id": "2-19",
+      "chapter": 2,
+      "lt": "Kaip jūs kalbate?",
+      "tl": "Anong mga wika ang sinasalita ninyo?"
+    },
+    {
+      "id": "2-20",
+      "chapter": 2,
+      "lt": "Ar aišku?",
+      "tl": "Malinaw ba?"
+    },
+    {
+      "id": "2-21",
+      "chapter": 2,
+      "lt": "Taip, aišku. / Ne, neaišku.",
+      "tl": "Oo, malinaw. / Hindi, hindi malinaw."
+    },
+    {
+      "id": "2-22",
+      "chapter": 2,
+      "lt": "Prašom pakartoti!",
+      "tl": "Pakisabi ulit!"
+    },
+    {
+      "id": "2-23",
+      "chapter": 2,
+      "lt": "Prašom kalbėti lėčiau!",
+      "tl": "Pakibagalan ang pagsasalita!"
+    },
+    {
+      "id": "2-30",
+      "chapter": 2,
+      "lt": "kalbėti, kalba, kalbėjo",
+      "tl": "magsalita"
+    },
+    {
+      "id": "2-31",
+      "chapter": 2,
+      "lt": "suprasti, supranta, suprato",
+      "tl": "umintindi / makaunawa"
+    },
+    {
+      "id": "2-32",
+      "chapter": 2,
+      "lt": "bet",
+      "tl": "pero"
+    },
+    {
+      "id": "2-33",
+      "chapter": 2,
+      "lt": "blogai",
+      "tl": "masama"
+    },
+    {
+      "id": "2-34",
+      "chapter": 2,
+      "lt": "gerai",
+      "tl": "mabuti"
+    },
+    {
+      "id": "2-35",
+      "chapter": 2,
+      "lt": "šiaip sau",
+      "tl": "so‑so / sakto lang"
+    },
+    {
+      "id": "2-36",
+      "chapter": 2,
+      "lt": "taip pat",
+      "tl": "rin / din / pati"
+    },
+    {
+      "id": "2-37",
+      "chapter": 2,
+      "lt": "truputį",
+      "tl": "kaunti / konti"
+    },
+    {
+      "id": "2-38",
+      "chapter": 2,
+      "lt": "ponas (Mr)",
+      "tl": "Ginoo"
+    },
+    {
+      "id": "2-39",
+      "chapter": 2,
+      "lt": "ponia (Mrs)",
+      "tl": "Ginang"
+    },
+    {
+      "id": "2-40",
+      "chapter": 2,
+      "lt": "draugas, draugė",
+      "tl": "kaibigan (lalaki/babae)"
+    },
+    {
+      "id": "2-50",
+      "chapter": 2,
+      "lt": "angliškai",
+      "tl": "sa Ingles"
+    },
+    {
+      "id": "2-51",
+      "chapter": 2,
+      "lt": "lietuviškai",
+      "tl": "sa Litwano"
+    },
+    {
+      "id": "2-52",
+      "chapter": 2,
+      "lt": "rusiškai",
+      "tl": "sa Ruso"
+    },
+    {
+      "id": "2-53",
+      "chapter": 2,
+      "lt": "lenkiškai",
+      "tl": "sa Polako"
+    },
+    {
+      "id": "2-54",
+      "chapter": 2,
+      "lt": "vokiškai",
+      "tl": "sa Aleman"
+    },
+    {
+      "id": "2-55",
+      "chapter": 2,
+      "lt": "latviškai",
+      "tl": "sa Latvian"
+    },
+    {
+      "id": "2-56",
+      "chapter": 2,
+      "lt": "ispaniškai",
+      "tl": "sa Kastila / Espanyol"
+    },
+    {
+      "id": "2-57",
+      "chapter": 2,
+      "lt": "itališkai",
+      "tl": "sa Italyano"
+    },
+    {
+      "id": "2-60",
+      "chapter": 2,
+      "lt": "Vokietija",
+      "tl": "Alemanya"
+    },
+    {
+      "id": "2-61",
+      "chapter": 2,
+      "lt": "Berlynas / Frankfurtas",
+      "tl": "Berlin / Frankfurt"
+    },
+    {
+      "id": "2-62",
+      "chapter": 2,
+      "lt": "Amerika",
+      "tl": "Amerika"
+    },
+    {
+      "id": "2-63",
+      "chapter": 2,
+      "lt": "Niujorkas",
+      "tl": "New York"
+    },
+    {
+      "id": "2-64",
+      "chapter": 2,
+      "lt": "Italija",
+      "tl": "Italya"
+    },
+    {
+      "id": "2-65",
+      "chapter": 2,
+      "lt": "Ispanija",
+      "tl": "Espanya"
+    },
+    {
+      "id": "3-01",
+      "chapter": 3,
+      "lt": "Kur tu gyveni?",
+      "tl": "Saan ka nakatira?"
+    },
+    {
+      "id": "3-02",
+      "chapter": 3,
+      "lt": "Aš gyvenu Vilniuje.",
+      "tl": "Ako ay nakatira sa Vilnius."
+    },
+    {
+      "id": "3-03",
+      "chapter": 3,
+      "lt": "Ar jūs gyvenate centre?",
+      "tl": "Nakatira ba kayo sa gitna ng siyudad?"
+    },
+    {
+      "id": "3-04",
+      "chapter": 3,
+      "lt": "Ar jūs gyvenate prie parduotuvės?",
+      "tl": "Nakatira ba kayo malapit sa tindahan?"
+    },
+    {
+      "id": "3-05",
+      "chapter": 3,
+      "lt": "Atsiprašau, kur yra bankas?",
+      "tl": "Paumanhin, nasaan ang bangko?"
+    },
+    {
+      "id": "3-06",
+      "chapter": 3,
+      "lt": "Bankas yra prie pašto.",
+      "tl": "Ang bangko ay malapit sa post office."
+    },
+    {
+      "id": "3-07",
+      "chapter": 3,
+      "lt": "Koks tavo adresas?",
+      "tl": "Ano ang iyong tirahan?"
+    },
+    {
+      "id": "3-08",
+      "chapter": 3,
+      "lt": "Koks tavo telefono numeris?",
+      "tl": "Ano ang iyong numero ng telepono?"
+    },
+    {
+      "id": "3-20",
+      "chapter": 3,
+      "lt": "adresas",
+      "tl": "tirahan / address"
+    },
+    {
+      "id": "3-21",
+      "chapter": 3,
+      "lt": "telefonas (telefono numeris)",
+      "tl": "telepono / numero ng telepono"
+    },
+    {
+      "id": "3-22",
+      "chapter": 3,
+      "lt": "namas",
+      "tl": "bahay"
+    },
+    {
+      "id": "3-23",
+      "chapter": 3,
+      "lt": "butas",
+      "tl": "apartment"
+    },
+    {
+      "id": "3-24",
+      "chapter": 3,
+      "lt": "miestas",
+      "tl": "lungsod"
+    },
+    {
+      "id": "3-25",
+      "chapter": 3,
+      "lt": "centras",
+      "tl": "gitna / sentro"
+    },
+    {
+      "id": "3-26",
+      "chapter": 3,
+      "lt": "senamiestis",
+      "tl": "lumang bayan / old town"
+    },
+    {
+      "id": "3-27",
+      "chapter": 3,
+      "lt": "universitetas",
+      "tl": "unibersidad"
+    },
+    {
+      "id": "3-28",
+      "chapter": 3,
+      "lt": "mokykla",
+      "tl": "paaralan"
+    },
+    {
+      "id": "3-29",
+      "chapter": 3,
+      "lt": "biblioteka",
+      "tl": "aklatan / library"
+    },
+    {
+      "id": "3-30",
+      "chapter": 3,
+      "lt": "parduotuvė",
+      "tl": "tindahan"
+    },
+    {
+      "id": "3-31",
+      "chapter": 3,
+      "lt": "turgus",
+      "tl": "palengke"
+    },
+    {
+      "id": "3-32",
+      "chapter": 3,
+      "lt": "paštas",
+      "tl": "post office"
+    },
+    {
+      "id": "3-33",
+      "chapter": 3,
+      "lt": "bankas",
+      "tl": "bangko"
+    },
+    {
+      "id": "3-34",
+      "chapter": 3,
+      "lt": "kavinė",
+      "tl": "kapihan / café"
+    },
+    {
+      "id": "3-35",
+      "chapter": 3,
+      "lt": "restoranas",
+      "tl": "restawran"
+    },
+    {
+      "id": "3-36",
+      "chapter": 3,
+      "lt": "ligoninė",
+      "tl": "ospital"
+    },
+    {
+      "id": "3-37",
+      "chapter": 3,
+      "lt": "vaistinė",
+      "tl": "botika / pharmacy"
+    },
+    {
+      "id": "3-38",
+      "chapter": 3,
+      "lt": "parkas",
+      "tl": "parke"
+    },
+    {
+      "id": "3-39",
+      "chapter": 3,
+      "lt": "tiltas",
+      "tl": "tulay"
+    },
+    {
+      "id": "3-40",
+      "chapter": 3,
+      "lt": "upė",
+      "tl": "ilog"
+    },
+    {
+      "id": "3-41",
+      "chapter": 3,
+      "lt": "jūra",
+      "tl": "dagat"
+    },
+    {
+      "id": "3-42",
+      "chapter": 3,
+      "lt": "oro uostas",
+      "tl": "paliparan / airport"
+    },
+    {
+      "id": "3-43",
+      "chapter": 3,
+      "lt": "stotis",
+      "tl": "istasyon"
+    },
+    {
+      "id": "3-44",
+      "chapter": 3,
+      "lt": "autobusų stotis",
+      "tl": "bus station"
+    },
+    {
+      "id": "3-45",
+      "chapter": 3,
+      "lt": "geležinkelio stotis",
+      "tl": "train station"
+    },
+    {
+      "id": "3-50",
+      "chapter": 3,
+      "lt": "0 nulis",
+      "tl": "zero"
+    },
+    {
+      "id": "3-51",
+      "chapter": 3,
+      "lt": "1 vienas",
+      "tl": "isa"
+    },
+    {
+      "id": "3-52",
+      "chapter": 3,
+      "lt": "2 du",
+      "tl": "dalawa"
+    },
+    {
+      "id": "3-53",
+      "chapter": 3,
+      "lt": "3 trys",
+      "tl": "tatlo"
+    },
+    {
+      "id": "3-54",
+      "chapter": 3,
+      "lt": "4 keturi",
+      "tl": "apat"
+    },
+    {
+      "id": "3-55",
+      "chapter": 3,
+      "lt": "5 penki",
+      "tl": "lima"
+    },
+    {
+      "id": "3-56",
+      "chapter": 3,
+      "lt": "6 šeši",
+      "tl": "anim"
+    },
+    {
+      "id": "3-57",
+      "chapter": 3,
+      "lt": "7 septyni",
+      "tl": "pito"
+    },
+    {
+      "id": "3-58",
+      "chapter": 3,
+      "lt": "8 aštuoni",
+      "tl": "walo"
+    },
+    {
+      "id": "3-59",
+      "chapter": 3,
+      "lt": "9 devyni",
+      "tl": "siyam"
+    },
+    {
+      "id": "3-60",
+      "chapter": 3,
+      "lt": "10 dešimt",
+      "tl": "sampu"
+    },
+    {
+      "id": "3-61",
+      "chapter": 3,
+      "lt": "11 vienuolika",
+      "tl": "labing-isa"
+    },
+    {
+      "id": "3-62",
+      "chapter": 3,
+      "lt": "12 dvylika",
+      "tl": "labindalawa"
+    },
+    {
+      "id": "3-63",
+      "chapter": 3,
+      "lt": "13 trylika",
+      "tl": "labintatlo"
+    },
+    {
+      "id": "3-64",
+      "chapter": 3,
+      "lt": "14 keturiolika",
+      "tl": "labing-apat"
+    },
+    {
+      "id": "3-65",
+      "chapter": 3,
+      "lt": "15 penkiolika",
+      "tl": "labinlima"
+    },
+    {
+      "id": "3-66",
+      "chapter": 3,
+      "lt": "16 šešiolika",
+      "tl": "labing-anim"
+    },
+    {
+      "id": "3-67",
+      "chapter": 3,
+      "lt": "17 septyniolika",
+      "tl": "labimpito"
+    },
+    {
+      "id": "3-68",
+      "chapter": 3,
+      "lt": "18 aštuoniolika",
+      "tl": "labing-walo"
+    },
+    {
+      "id": "3-69",
+      "chapter": 3,
+      "lt": "19 devyniolika",
+      "tl": "labinsiyam"
+    },
+    {
+      "id": "3-70",
+      "chapter": 3,
+      "lt": "20 dvidešimt",
+      "tl": "dalawampu"
+    },
+    {
+      "id": "3-71",
+      "chapter": 3,
+      "lt": "30 trisdešimt",
+      "tl": "tatlumpu"
+    },
+    {
+      "id": "3-72",
+      "chapter": 3,
+      "lt": "40 keturiasdešimt",
+      "tl": "apatnapu"
+    },
+    {
+      "id": "3-73",
+      "chapter": 3,
+      "lt": "50 penkiasdešimt",
+      "tl": "limampu"
+    },
+    {
+      "id": "3-74",
+      "chapter": 3,
+      "lt": "60 šešiasdešimt",
+      "tl": "animnapu"
+    },
+    {
+      "id": "3-75",
+      "chapter": 3,
+      "lt": "70 septyniasdešimt",
+      "tl": "pitumpu"
+    },
+    {
+      "id": "3-76",
+      "chapter": 3,
+      "lt": "80 aštuoniasdešimt",
+      "tl": "walumpu"
+    },
+    {
+      "id": "3-77",
+      "chapter": 3,
+      "lt": "90 devyniasdešimt",
+      "tl": "siyamnapu"
+    },
+    {
+      "id": "3-78",
+      "chapter": 3,
+      "lt": "100 šimtas",
+      "tl": "isandaan"
+    },
+    {
+      "id": "3-79",
+      "chapter": 3,
+      "lt": "200 du šimtai",
+      "tl": "dalawang daan"
+    },
+    {
+      "id": "3-80",
+      "chapter": 3,
+      "lt": "300 trys šimtai",
+      "tl": "tatlong daan"
+    },
+    {
+      "id": "3-81",
+      "chapter": 3,
+      "lt": "400 keturi šimtai",
+      "tl": "apat na raan"
+    },
+    {
+      "id": "3-82",
+      "chapter": 3,
+      "lt": "500 penki šimtai",
+      "tl": "limang daan"
+    },
+    {
+      "id": "3-83",
+      "chapter": 3,
+      "lt": "600 šeši šimtai",
+      "tl": "anim na raan"
+    },
+    {
+      "id": "3-84",
+      "chapter": 3,
+      "lt": "700 septyni šimtai",
+      "tl": "pitong daan"
+    },
+    {
+      "id": "3-85",
+      "chapter": 3,
+      "lt": "800 aštuoni šimtai",
+      "tl": "walong daan"
+    },
+    {
+      "id": "3-86",
+      "chapter": 3,
+      "lt": "900 devyni šimtai",
+      "tl": "siyam na raan"
+    },
+    {
+      "id": "3-87",
+      "chapter": 3,
+      "lt": "1000 tūkstantis",
+      "tl": "isang libo"
+    },
+    {
+      "id": "4-01",
+      "chapter": 4,
+      "lt": "Kur susitinkame?",
+      "tl": "Saan tayo magkikita?"
+    },
+    {
+      "id": "4-02",
+      "chapter": 4,
+      "lt": "Kada susitinkame?",
+      "tl": "Kailan tayo magkikita?"
+    },
+    {
+      "id": "4-03",
+      "chapter": 4,
+      "lt": "Kelintą valandą susitinkame?",
+      "tl": "Anong oras tayo magkikita?"
+    },
+    {
+      "id": "4-04",
+      "chapter": 4,
+      "lt": "Ar susitinkame rytoj?",
+      "tl": "Magkikita ba tayo bukas?"
+    },
+    {
+      "id": "4-05",
+      "chapter": 4,
+      "lt": "Einame į parką.",
+      "tl": "Pupunta tayo sa parke."
+    },
+    {
+      "id": "4-06",
+      "chapter": 4,
+      "lt": "Einame pas draugą.",
+      "tl": "Pupunta tayo sa bahay ng kaibigan."
+    },
+    {
+      "id": "4-07",
+      "chapter": 4,
+      "lt": "Kviečiu į svečius!",
+      "tl": "Inaanyayahan kitang bumisita."
+    },
+    {
+      "id": "4-08",
+      "chapter": 4,
+      "lt": "Malonu matyti!",
+      "tl": "Ikinagagalak kitang makita!"
+    },
+    {
+      "id": "4-20",
+      "chapter": 4,
+      "lt": "savaitė",
+      "tl": "linggo (week)"
+    },
+    {
+      "id": "4-21",
+      "chapter": 4,
+      "lt": "pirmadienis",
+      "tl": "Lunes"
+    },
+    {
+      "id": "4-22",
+      "chapter": 4,
+      "lt": "antradienis",
+      "tl": "Martes"
+    },
+    {
+      "id": "4-23",
+      "chapter": 4,
+      "lt": "trečiadienis",
+      "tl": "Miyerkules"
+    },
+    {
+      "id": "4-24",
+      "chapter": 4,
+      "lt": "ketvirtadienis",
+      "tl": "Huwebes"
+    },
+    {
+      "id": "4-25",
+      "chapter": 4,
+      "lt": "penktadienis",
+      "tl": "Biyernes"
+    },
+    {
+      "id": "4-26",
+      "chapter": 4,
+      "lt": "šeštadienis",
+      "tl": "Sabado"
+    },
+    {
+      "id": "4-27",
+      "chapter": 4,
+      "lt": "sekmadienis",
+      "tl": "Linggo"
+    },
+    {
+      "id": "4-28",
+      "chapter": 4,
+      "lt": "savaitgalis",
+      "tl": "weekend"
+    },
+    {
+      "id": "4-29",
+      "chapter": 4,
+      "lt": "rytas",
+      "tl": "umaga"
+    },
+    {
+      "id": "4-30",
+      "chapter": 4,
+      "lt": "diena",
+      "tl": "araw"
+    },
+    {
+      "id": "4-31",
+      "chapter": 4,
+      "lt": "vakaras",
+      "tl": "gabi"
+    },
+    {
+      "id": "4-32",
+      "chapter": 4,
+      "lt": "naktis",
+      "tl": "gabi / hatinggabi"
+    },
+    {
+      "id": "4-33",
+      "chapter": 4,
+      "lt": "šiandien",
+      "tl": "ngayon"
+    },
+    {
+      "id": "4-34",
+      "chapter": 4,
+      "lt": "rytoj",
+      "tl": "bukas"
+    },
+    {
+      "id": "4-35",
+      "chapter": 4,
+      "lt": "valanda",
+      "tl": "oras (hour)"
+    },
+    {
+      "id": "4-36",
+      "chapter": 4,
+      "lt": "pusė",
+      "tl": "kalahati (half past)"
+    },
+    {
+      "id": "4-37",
+      "chapter": 4,
+      "lt": "kartais",
+      "tl": "minsan"
+    },
+    {
+      "id": "4-38",
+      "chapter": 4,
+      "lt": "dažnai",
+      "tl": "madalas"
+    },
+    {
+      "id": "4-39",
+      "chapter": 4,
+      "lt": "visada",
+      "tl": "palagi"
+    },
+    {
+      "id": "4-40",
+      "chapter": 4,
+      "lt": "niekada",
+      "tl": "hindi kailanman"
+    },
+    {
+      "id": "4-41",
+      "chapter": 4,
+      "lt": "susitikti",
+      "tl": "magkita / magtagpo"
+    },
+    {
+      "id": "4-42",
+      "chapter": 4,
+      "lt": "eiti",
+      "tl": "pumunta (lakad)"
+    },
+    {
+      "id": "4-43",
+      "chapter": 4,
+      "lt": "važiuoti",
+      "tl": "sumakay / bumiyahe"
+    },
+    {
+      "id": "4-44",
+      "chapter": 4,
+      "lt": "skubėti",
+      "tl": "magmadali"
+    },
+    {
+      "id": "4-45",
+      "chapter": 4,
+      "lt": "vėluoti",
+      "tl": "ma-late / maantala"
+    },
+    {
+      "id": "4-46",
+      "chapter": 4,
+      "lt": "kartu",
+      "tl": "sabay / magkasama"
+    },
+    {
+      "id": "5-01",
+      "chapter": 5,
+      "lt": "Ar tu turi brolį?",
+      "tl": "May kapatid ka bang lalaki?"
+    },
+    {
+      "id": "5-02",
+      "chapter": 5,
+      "lt": "Aš turiu du brolius.",
+      "tl": "Mayroon akong dalawang kapatid na lalaki."
+    },
+    {
+      "id": "5-03",
+      "chapter": 5,
+      "lt": "Ar tu turi seserį?",
+      "tl": "May kapatid ka bang babae?"
+    },
+    {
+      "id": "5-04",
+      "chapter": 5,
+      "lt": "Ne, aš neturiu sesers.",
+      "tl": "Hindi, wala akong kapatid na babae."
+    },
+    {
+      "id": "5-05",
+      "chapter": 5,
+      "lt": "Ar čia tavo mama?",
+      "tl": "Siya ba ang iyong ina?"
+    },
+    {
+      "id": "5-06",
+      "chapter": 5,
+      "lt": "Ar čia tavo tėvas?",
+      "tl": "Siya ba ang iyong ama?"
+    },
+    {
+      "id": "5-20",
+      "chapter": 5,
+      "lt": "šeima",
+      "tl": "pamilya"
+    },
+    {
+      "id": "5-21",
+      "chapter": 5,
+      "lt": "tėvai",
+      "tl": "mga magulang"
+    },
+    {
+      "id": "5-22",
+      "chapter": 5,
+      "lt": "tėvas; tėtis",
+      "tl": "ama, tatay"
+    },
+    {
+      "id": "5-23",
+      "chapter": 5,
+      "lt": "motina; mama",
+      "tl": "ina, nanay"
+    },
+    {
+      "id": "5-24",
+      "chapter": 5,
+      "lt": "sūnus",
+      "tl": "anak na lalaki"
+    },
+    {
+      "id": "5-25",
+      "chapter": 5,
+      "lt": "duktė",
+      "tl": "anak na babae"
+    },
+    {
+      "id": "5-26",
+      "chapter": 5,
+      "lt": "brolis",
+      "tl": "kapatid na lalaki"
+    },
+    {
+      "id": "5-27",
+      "chapter": 5,
+      "lt": "sesuo",
+      "tl": "kapatid na babae"
+    },
+    {
+      "id": "5-28",
+      "chapter": 5,
+      "lt": "senelis",
+      "tl": "lolo"
+    },
+    {
+      "id": "5-29",
+      "chapter": 5,
+      "lt": "senelė / močiutė",
+      "tl": "lola"
+    },
+    {
+      "id": "5-30",
+      "chapter": 5,
+      "lt": "anūkas",
+      "tl": "apo (lalaki)"
+    },
+    {
+      "id": "5-31",
+      "chapter": 5,
+      "lt": "anūkė",
+      "tl": "apo (babae)"
+    },
+    {
+      "id": "5-32",
+      "chapter": 5,
+      "lt": "dėdė",
+      "tl": "tiyo"
+    },
+    {
+      "id": "5-33",
+      "chapter": 5,
+      "lt": "teta",
+      "tl": "tiya"
+    },
+    {
+      "id": "5-34",
+      "chapter": 5,
+      "lt": "pusbrolis",
+      "tl": "pinsan (lalaki)"
+    },
+    {
+      "id": "5-35",
+      "chapter": 5,
+      "lt": "pusseserė",
+      "tl": "pinsan (babae)"
+    },
+    {
+      "id": "5-36",
+      "chapter": 5,
+      "lt": "dukterėčia",
+      "tl": "pamangkin (babae)"
+    },
+    {
+      "id": "5-37",
+      "chapter": 5,
+      "lt": "sūnėnas",
+      "tl": "pamangkin (lalaki)"
+    },
+    {
+      "id": "5-38",
+      "chapter": 5,
+      "lt": "vedęs",
+      "tl": "may-asawa (lalaki)"
+    },
+    {
+      "id": "5-39",
+      "chapter": 5,
+      "lt": "ištekėjusi",
+      "tl": "may-asawa (babae)"
+    },
+    {
+      "id": "5-40",
+      "chapter": 5,
+      "lt": "išsiskyręs / išsiskyrusi",
+      "tl": "hiwalay / divorced"
+    },
+    {
+      "id": "5-41",
+      "chapter": 5,
+      "lt": "miręs / mirusi",
+      "tl": "yumao / namatay"
+    },
+    {
+      "id": "5-42",
+      "chapter": 5,
+      "lt": "žmona",
+      "tl": "asawa (babae)"
+    },
+    {
+      "id": "5-43",
+      "chapter": 5,
+      "lt": "vyras",
+      "tl": "asawa (lalaki)"
+    },
+    {
+      "id": "5-44",
+      "chapter": 5,
+      "lt": "vaikas",
+      "tl": "bata"
+    },
+    {
+      "id": "5-45",
+      "chapter": 5,
+      "lt": "moteris",
+      "tl": "babae"
+    },
+    {
+      "id": "5-46",
+      "chapter": 5,
+      "lt": "vyras (gender)",
+      "tl": "lalaki"
+    },
+    {
+      "id": "5-47",
+      "chapter": 5,
+      "lt": "berniukas",
+      "tl": "batang lalaki"
+    },
+    {
+      "id": "5-48",
+      "chapter": 5,
+      "lt": "mergaitė",
+      "tl": "batang babae"
+    },
+    {
+      "id": "5-49",
+      "chapter": 5,
+      "lt": "mokinys / mokinė",
+      "tl": "mag-aaral"
+    },
+    {
+      "id": "5-50",
+      "chapter": 5,
+      "lt": "naminis gyvūnas",
+      "tl": "alagang hayop"
+    },
+    {
+      "id": "5-51",
+      "chapter": 5,
+      "lt": "šuo",
+      "tl": "aso"
+    },
+    {
+      "id": "5-52",
+      "chapter": 5,
+      "lt": "katė",
+      "tl": "pusa"
+    },
+    {
+      "id": "5-60",
+      "chapter": 5,
+      "lt": "muzika",
+      "tl": "musika"
+    },
+    {
+      "id": "5-61",
+      "chapter": 5,
+      "lt": "literatūra",
+      "tl": "panitikan"
+    },
+    {
+      "id": "5-62",
+      "chapter": 5,
+      "lt": "sportas",
+      "tl": "isports"
+    },
+    {
+      "id": "5-63",
+      "chapter": 5,
+      "lt": "teatras",
+      "tl": "teatro"
+    },
+    {
+      "id": "5-64",
+      "chapter": 5,
+      "lt": "mėgti, mėgsta, mėgo",
+      "tl": "gustuhin / mahilig"
+    },
+    {
+      "id": "5-65",
+      "chapter": 5,
+      "lt": "mylėti, myli, mylėjo",
+      "tl": "mahalin / magmahal"
+    },
+    {
+      "id": "5-66",
+      "chapter": 5,
+      "lt": "žiūrėti, žiūri, žiūrėjo",
+      "tl": "manood / tumingin"
+    },
+    {
+      "id": "5-67",
+      "chapter": 5,
+      "lt": "sėdėti, sėdi, sėdėjo",
+      "tl": "umupo"
+    },
+    {
+      "id": "5-68",
+      "chapter": 5,
+      "lt": "stovėti, stovi, stovėjo",
+      "tl": "tumayo"
+    },
+    {
+      "id": "5-69",
+      "chapter": 5,
+      "lt": "turėti, turi, turėjo",
+      "tl": "magkaroon / may"
+    },
+    {
+      "id": "5-70",
+      "chapter": 5,
+      "lt": "sportuoti, sportuoja, sportavo",
+      "tl": "mag-ehersisyo"
+    },
+    {
+      "id": "5-71",
+      "chapter": 5,
+      "lt": "vaikščioti, vaikščioja, vaikščiojo",
+      "tl": "maglakad"
+    },
+    {
+      "id": "6-01",
+      "chapter": 6,
+      "lt": "Koks tavo brolio vardas?",
+      "tl": "Ano ang pangalan ng kapatid mong lalaki?"
+    },
+    {
+      "id": "6-02",
+      "chapter": 6,
+      "lt": "Koks tavo sesers vardas?",
+      "tl": "Ano ang pangalan ng kapatid mong babae?"
+    },
+    {
+      "id": "6-03",
+      "chapter": 6,
+      "lt": "Mano sesers vardas yra Lina.",
+      "tl": "Ang pangalan ng kapatid kong babae ay Lina."
+    },
+    {
+      "id": "6-04",
+      "chapter": 6,
+      "lt": "Kokia tavo šeima?",
+      "tl": "Kumusta ang pamilya mo?"
+    },
+    {
+      "id": "6-05",
+      "chapter": 6,
+      "lt": "Mano šeima yra didelė.",
+      "tl": "Malaki ang pamilya ko."
+    },
+    {
+      "id": "6-06",
+      "chapter": 6,
+      "lt": "Ar tavo brolis yra vyresnis už tave?",
+      "tl": "Mas matanda ba ang kapatid mong lalaki sa iyo?"
+    },
+    {
+      "id": "6-07",
+      "chapter": 6,
+      "lt": "Ar tu esi jauniausias vaikas?",
+      "tl": "Ikaw ba ang pinakabata?"
+    },
+    {
+      "id": "6-20",
+      "chapter": 6,
+      "lt": "aukštas, aukšta",
+      "tl": "matangkad"
+    },
+    {
+      "id": "6-21",
+      "chapter": 6,
+      "lt": "žemas, žema",
+      "tl": "pandak"
+    },
+    {
+      "id": "6-22",
+      "chapter": 6,
+      "lt": "jaunas, jauna",
+      "tl": "bata"
+    },
+    {
+      "id": "6-23",
+      "chapter": 6,
+      "lt": "senas, sena",
+      "tl": "matanda"
+    },
+    {
+      "id": "6-24",
+      "chapter": 6,
+      "lt": "gražus, graži",
+      "tl": "gwapo / maganda"
+    },
+    {
+      "id": "6-25",
+      "chapter": 6,
+      "lt": "protingas, protinga",
+      "tl": "matalino"
+    },
+    {
+      "id": "6-26",
+      "chapter": 6,
+      "lt": "draugiškas, draugiška",
+      "tl": "palakaibigan"
+    },
+    {
+      "id": "6-27",
+      "chapter": 6,
+      "lt": "malonus, maloni",
+      "tl": "mabait"
+    },
+    {
+      "id": "6-28",
+      "chapter": 6,
+      "lt": "linksmas, linksma",
+      "tl": "masaya"
+    },
+    {
+      "id": "6-29",
+      "chapter": 6,
+      "lt": "liūdnas, liūdna",
+      "tl": "malungkot"
+    },
+    {
+      "id": "6-30",
+      "chapter": 6,
+      "lt": "šviesus, šviesi",
+      "tl": "maputi / blond / maliwanag"
+    },
+    {
+      "id": "6-31",
+      "chapter": 6,
+      "lt": "tamsus, tamsi",
+      "tl": "maitim / madilim"
+    },
+    {
+      "id": "6-32",
+      "chapter": 6,
+      "lt": "didelis, didelė",
+      "tl": "malaki"
+    },
+    {
+      "id": "6-33",
+      "chapter": 6,
+      "lt": "mažas, maža",
+      "tl": "maliit"
+    },
+    {
+      "id": "6-34",
+      "chapter": 6,
+      "lt": "vidurinis, vidurinė",
+      "tl": "gitna / middle"
+    },
+    {
+      "id": "6-35",
+      "chapter": 6,
+      "lt": "jaunesnis, jaunesnė",
+      "tl": "mas bata"
+    },
+    {
+      "id": "6-36",
+      "chapter": 6,
+      "lt": "vyresnis, vyresnė",
+      "tl": "mas matanda"
+    },
+    {
+      "id": "6-37",
+      "chapter": 6,
+      "lt": "jauniausias, jauniausia",
+      "tl": "pinakabata"
+    },
+    {
+      "id": "6-38",
+      "chapter": 6,
+      "lt": "vyriausias, vyriausia",
+      "tl": "pinakamatanda"
+    },
+    {
+      "id": "7-01",
+      "chapter": 7,
+      "lt": "Prašom valgyti!",
+      "tl": "Kain na po!"
+    },
+    {
+      "id": "7-02",
+      "chapter": 7,
+      "lt": "Valgyk pyrago!",
+      "tl": "Kumain ka ng keyk."
+    },
+    {
+      "id": "7-03",
+      "chapter": 7,
+      "lt": "Gerk arbatos!",
+      "tl": "Uminom ka ng tsaa."
+    },
+    {
+      "id": "7-04",
+      "chapter": 7,
+      "lt": "Ko tu nori? Kavos ar arbatos?",
+      "tl": "Ano ang gusto mo? Kape o tsaa?"
+    },
+    {
+      "id": "7-05",
+      "chapter": 7,
+      "lt": "Man patinka kava.",
+      "tl": "Gusto ko ng kape."
+    },
+    {
+      "id": "7-06",
+      "chapter": 7,
+      "lt": "Labai skanu!",
+      "tl": "Napakasarap!"
+    },
+    {
+      "id": "7-07",
+      "chapter": 7,
+      "lt": "Skanaus!",
+      "tl": "Kain tayo! / Bon appétit!"
+    },
+    {
+      "id": "7-08",
+      "chapter": 7,
+      "lt": "Ačiū, buvo labai skanu!",
+      "tl": "Salamat, sobrang sarap!"
+    },
+    {
+      "id": "7-20",
+      "chapter": 7,
+      "lt": "maistas",
+      "tl": "pagkain"
+    },
+    {
+      "id": "7-21",
+      "chapter": 7,
+      "lt": "pienas",
+      "tl": "gatas"
+    },
+    {
+      "id": "7-22",
+      "chapter": 7,
+      "lt": "sūris",
+      "tl": "keso"
+    },
+    {
+      "id": "7-23",
+      "chapter": 7,
+      "lt": "duona",
+      "tl": "tinapay"
+    },
+    {
+      "id": "7-24",
+      "chapter": 7,
+      "lt": "mėsa",
+      "tl": "karne"
+    },
+    {
+      "id": "7-25",
+      "chapter": 7,
+      "lt": "žuvis",
+      "tl": "isda"
+    },
+    {
+      "id": "7-26",
+      "chapter": 7,
+      "lt": "vištiena",
+      "tl": "manok"
+    },
+    {
+      "id": "7-27",
+      "chapter": 7,
+      "lt": "jautiena",
+      "tl": "baka (beef)"
+    },
+    {
+      "id": "7-28",
+      "chapter": 7,
+      "lt": "kiauliena",
+      "tl": "baboy (pork)"
+    },
+    {
+      "id": "7-29",
+      "chapter": 7,
+      "lt": "kalakutiena",
+      "tl": "pabo (turkey)"
+    },
+    {
+      "id": "7-30",
+      "chapter": 7,
+      "lt": "dešra",
+      "tl": "longganisa / sausage"
+    },
+    {
+      "id": "7-31",
+      "chapter": 7,
+      "lt": "kumpis",
+      "tl": "hamon / ham"
+    },
+    {
+      "id": "7-32",
+      "chapter": 7,
+      "lt": "bandelė",
+      "tl": "tinapay na maliit / roll"
+    },
+    {
+      "id": "7-33",
+      "chapter": 7,
+      "lt": "spurga",
+      "tl": "donut"
+    },
+    {
+      "id": "7-34",
+      "chapter": 7,
+      "lt": "pyragas",
+      "tl": "pay"
+    },
+    {
+      "id": "7-35",
+      "chapter": 7,
+      "lt": "tortas",
+      "tl": "keyk"
+    },
+    {
+      "id": "7-36",
+      "chapter": 7,
+      "lt": "šokoladas",
+      "tl": "tsokolate"
+    },
+    {
+      "id": "7-37",
+      "chapter": 7,
+      "lt": "arbata",
+      "tl": "tsaa"
+    },
+    {
+      "id": "7-38",
+      "chapter": 7,
+      "lt": "kava",
+      "tl": "kape"
+    },
+    {
+      "id": "7-39",
+      "chapter": 7,
+      "lt": "gira",
+      "tl": "kvass (inuming may lebadura)"
+    },
+    {
+      "id": "7-40",
+      "chapter": 7,
+      "lt": "vanduo",
+      "tl": "tubig"
+    },
+    {
+      "id": "7-41",
+      "chapter": 7,
+      "lt": "sultys",
+      "tl": "juice"
+    },
+    {
+      "id": "7-42",
+      "chapter": 7,
+      "lt": "alkanas, alkana",
+      "tl": "gutom"
+    },
+    {
+      "id": "7-43",
+      "chapter": 7,
+      "lt": "sotus, soti",
+      "tl": "busog"
+    },
+    {
+      "id": "7-44",
+      "chapter": 7,
+      "lt": "skanus, skani",
+      "tl": "masarap"
+    },
+    {
+      "id": "7-45",
+      "chapter": 7,
+      "lt": "šiltas, šilta",
+      "tl": "maligamgam"
+    },
+    {
+      "id": "7-46",
+      "chapter": 7,
+      "lt": "šaltas, šalta",
+      "tl": "malamig"
+    },
+    {
+      "id": "7-47",
+      "chapter": 7,
+      "lt": "karštas, karšta",
+      "tl": "mainit"
+    },
+    {
+      "id": "7-48",
+      "chapter": 7,
+      "lt": "keptas, kepta",
+      "tl": "prito / inihaw"
+    },
+    {
+      "id": "7-49",
+      "chapter": 7,
+      "lt": "virtas, virta",
+      "tl": "nilaga / pinakuluan"
+    },
+    {
+      "id": "8-01",
+      "chapter": 8,
+      "lt": "Kiek kainuoja?",
+      "tl": "Magkano?"
+    },
+    {
+      "id": "8-02",
+      "chapter": 8,
+      "lt": "Prašom duoti obuolių.",
+      "tl": "Pakiabot ng mga mansanas."
+    },
+    {
+      "id": "8-03",
+      "chapter": 8,
+      "lt": "Prašom duoti du kilogramus bulvių.",
+      "tl": "Pakiabot ng dalawang kilo ng patatas."
+    },
+    {
+      "id": "8-04",
+      "chapter": 8,
+      "lt": "Norėčiau truputį daugiau.",
+      "tl": "Gusto ko pa ng kaunti."
+    },
+    {
+      "id": "8-05",
+      "chapter": 8,
+      "lt": "Ar reikia maišelio?",
+      "tl": "Kailangan mo ba ng supot?"
+    },
+    {
+      "id": "8-20",
+      "chapter": 8,
+      "lt": "turgus",
+      "tl": "palengke"
+    },
+    {
+      "id": "8-21",
+      "chapter": 8,
+      "lt": "pardavėjas / pardavėja",
+      "tl": "tindero / tindera"
+    },
+    {
+      "id": "8-22",
+      "chapter": 8,
+      "lt": "kaina",
+      "tl": "presyo"
+    },
+    {
+      "id": "8-23",
+      "chapter": 8,
+      "lt": "euro / centas",
+      "tl": "euro / sentimo"
+    },
+    {
+      "id": "8-24",
+      "chapter": 8,
+      "lt": "maišelis",
+      "tl": "supot / bag"
+    },
+    {
+      "id": "8-25",
+      "chapter": 8,
+      "lt": "kilogramas",
+      "tl": "kilo"
+    },
+    {
+      "id": "8-30",
+      "chapter": 8,
+      "lt": "agurkas",
+      "tl": "pipino"
+    },
+    {
+      "id": "8-31",
+      "chapter": 8,
+      "lt": "baklažanas",
+      "tl": "talong"
+    },
+    {
+      "id": "8-32",
+      "chapter": 8,
+      "lt": "burokėlis",
+      "tl": "beetroot"
+    },
+    {
+      "id": "8-33",
+      "chapter": 8,
+      "lt": "bulvė",
+      "tl": "patatas"
+    },
+    {
+      "id": "8-34",
+      "chapter": 8,
+      "lt": "cukinija",
+      "tl": "zucchini / upo (depende sa gamit)"
+    },
+    {
+      "id": "8-35",
+      "chapter": 8,
+      "lt": "česnakas",
+      "tl": "bawang"
+    },
+    {
+      "id": "8-36",
+      "chapter": 8,
+      "lt": "kopūstas",
+      "tl": "repolyo"
+    },
+    {
+      "id": "8-37",
+      "chapter": 8,
+      "lt": "moliūgas",
+      "tl": "kalabasa / pumpkin"
+    },
+    {
+      "id": "8-38",
+      "chapter": 8,
+      "lt": "morka",
+      "tl": "karot"
+    },
+    {
+      "id": "8-39",
+      "chapter": 8,
+      "lt": "pomidoras",
+      "tl": "kamatis"
+    },
+    {
+      "id": "8-40",
+      "chapter": 8,
+      "lt": "pupelės",
+      "tl": "beans"
+    },
+    {
+      "id": "8-41",
+      "chapter": 8,
+      "lt": "svogūnas",
+      "tl": "sibuyas"
+    },
+    {
+      "id": "8-42",
+      "chapter": 8,
+      "lt": "žirniai",
+      "tl": "gisantes / peas"
+    },
+    {
+      "id": "8-50",
+      "chapter": 8,
+      "lt": "apelsinas",
+      "tl": "kahel / orange"
+    },
+    {
+      "id": "8-51",
+      "chapter": 8,
+      "lt": "bananas",
+      "tl": "saging"
+    },
+    {
+      "id": "8-52",
+      "chapter": 8,
+      "lt": "citrina",
+      "tl": "limon / lemon"
+    },
+    {
+      "id": "8-53",
+      "chapter": 8,
+      "lt": "kriaušė",
+      "tl": "peras / pear"
+    },
+    {
+      "id": "8-54",
+      "chapter": 8,
+      "lt": "obuolys",
+      "tl": "mansanas"
+    },
+    {
+      "id": "8-55",
+      "chapter": 8,
+      "lt": "vynuogės",
+      "tl": "ubas / grapes"
+    },
+    {
+      "id": "8-56",
+      "chapter": 8,
+      "lt": "vyšnios",
+      "tl": "seresa / cherries"
+    },
+    {
+      "id": "8-57",
+      "chapter": 8,
+      "lt": "avietės",
+      "tl": "raspberries"
+    },
+    {
+      "id": "8-58",
+      "chapter": 8,
+      "lt": "braškės",
+      "tl": "presa / strawberries"
+    },
+    {
+      "id": "8-59",
+      "chapter": 8,
+      "lt": "serbentai",
+      "tl": "currants"
+    },
+    {
+      "id": "8-60",
+      "chapter": 8,
+      "lt": "bazilikai",
+      "tl": "basil"
+    },
+    {
+      "id": "8-61",
+      "chapter": 8,
+      "lt": "kmynai",
+      "tl": "caraway seeds"
+    },
+    {
+      "id": "8-62",
+      "chapter": 8,
+      "lt": "krapai",
+      "tl": "dill"
+    },
+    {
+      "id": "8-63",
+      "chapter": 8,
+      "lt": "lauro lapai",
+      "tl": "dahon ng laurel"
+    },
+    {
+      "id": "8-64",
+      "chapter": 8,
+      "lt": "mėtos",
+      "tl": "mint"
+    },
+    {
+      "id": "8-65",
+      "chapter": 8,
+      "lt": "petražolės",
+      "tl": "parsley"
+    },
+    {
+      "id": "8-66",
+      "chapter": 8,
+      "lt": "pipirai",
+      "tl": "paminta / pepper"
+    },
+    {
+      "id": "8-67",
+      "chapter": 8,
+      "lt": "raudonėliai",
+      "tl": "oregano"
+    },
+    {
+      "id": "8-70",
+      "chapter": 8,
+      "lt": "saldus, saldi",
+      "tl": "matamis / sweet"
+    },
+    {
+      "id": "8-71",
+      "chapter": 8,
+      "lt": "rūgštus, rūgšti",
+      "tl": "maasim / sour"
+    },
+    {
+      "id": "8-72",
+      "chapter": 8,
+      "lt": "šviežias, šviežia",
+      "tl": "sariwa / fresh"
+    },
+    {
+      "id": "8-73",
+      "chapter": 8,
+      "lt": "senas, sena (maistas)",
+      "tl": "luma / hindi sariwa"
+    },
+    {
+      "id": "8-74",
+      "chapter": 8,
+      "lt": "riebus, riebi",
+      "tl": "mamantika / rich"
+    },
+    {
+      "id": "8-75",
+      "chapter": 8,
+      "lt": "rūkytas, rūkyta",
+      "tl": "tinapa / smoked"
+    },
+    {
+      "id": "8-76",
+      "chapter": 8,
+      "lt": "žalias, žalia",
+      "tl": "berde / hilaw / raw"
+    },
+    {
+      "id": "8-77",
+      "chapter": 8,
+      "lt": "baltas, balta",
+      "tl": "puti / white"
+    },
+    {
+      "id": "8-78",
+      "chapter": 8,
+      "lt": "geltonas, geltona",
+      "tl": "dilaw / yellow"
+    },
+    {
+      "id": "8-79",
+      "chapter": 8,
+      "lt": "mėlynas, mėlyna",
+      "tl": "asul / blue"
+    },
+    {
+      "id": "8-80",
+      "chapter": 8,
+      "lt": "raudonas, raudona",
+      "tl": "pula / red"
+    },
+    {
+      "id": "8-81",
+      "chapter": 8,
+      "lt": "žalias, žalia (color)",
+      "tl": "luntian / green"
+    },
+    {
+      "id": "8-90",
+      "chapter": 8,
+      "lt": "daryti, daro, darė (ką?)",
+      "tl": "gumawa / maghanda"
+    },
+    {
+      "id": "8-91",
+      "chapter": 8,
+      "lt": "kepti, kepa, kepė (ką?)",
+      "tl": "magprito / mag-ihaw / mag-bake"
+    },
+    {
+      "id": "8-92",
+      "chapter": 8,
+      "lt": "virti, verda, virė (ką?)",
+      "tl": "maglaga / magpakulo"
+    },
+    {
+      "id": "8-93",
+      "chapter": 8,
+      "lt": "duoti, duoda, davė (ką? ko?)",
+      "tl": "magbigay"
+    },
+    {
+      "id": "8-94",
+      "chapter": 8,
+      "lt": "pirkti, perka, pirko (ką? ko?)",
+      "tl": "bumili"
+    },
+    {
+      "id": "9-01",
+      "chapter": 9,
+      "lt": "Norėčiau kavos.",
+      "tl": "Gusto ko ng kape."
+    },
+    {
+      "id": "9-02",
+      "chapter": 9,
+      "lt": "Norėčiau arbatos su citrina.",
+      "tl": "Gusto ko ng tsaa na may lemon."
+    },
+    {
+      "id": "9-03",
+      "chapter": 9,
+      "lt": "Ar turite šviežiai spaustų apelsinų sulčių?",
+      "tl": "May sariwang pinigang katas ng kahel ba kayo?"
+    },
+    {
+      "id": "9-04",
+      "chapter": 9,
+      "lt": "Ar turite vegetariškų patiekalų?",
+      "tl": "May mga pagkaing pang‑vegetarian ba kayo?"
+    },
+    {
+      "id": "9-05",
+      "chapter": 9,
+      "lt": "Ar turite dienos pietų?",
+      "tl": "May lunch special ba kayo?"
+    },
+    {
+      "id": "9-06",
+      "chapter": 9,
+      "lt": "Kokia yra dienos sriuba?",
+      "tl": "Ano ang soup of the day?"
+    },
+    {
+      "id": "9-07",
+      "chapter": 9,
+      "lt": "Prašom sąskaitą!",
+      "tl": "Pakibigay ng bill / tseke."
+    },
+    {
+      "id": "9-08",
+      "chapter": 9,
+      "lt": "Ar čia laisva?",
+      "tl": "Libre ba ang upuan dito?"
+    },
+    {
+      "id": "9-09",
+      "chapter": 9,
+      "lt": "Gersite čia ar norėsite išsinešti?",
+      "tl": "Dito ba kayo iinom o take‑out?"
+    },
+    {
+      "id": "9-10",
+      "chapter": 9,
+      "lt": "Ar buvo skanu?",
+      "tl": "Masarap ba?"
+    },
+    {
+      "id": "9-11",
+      "chapter": 9,
+      "lt": "Buvo labai skanu!",
+      "tl": "Sobrang sarap!"
+    },
+    {
+      "id": "9-12",
+      "chapter": 9,
+      "lt": "Prašom supakuoti.",
+      "tl": "Pakipaloob / pakibalot."
+    },
+    {
+      "id": "9-20",
+      "chapter": 9,
+      "lt": "kavinė",
+      "tl": "kapihan / café"
+    },
+    {
+      "id": "9-21",
+      "chapter": 9,
+      "lt": "kepyklėlė",
+      "tl": "panaderya / bakery"
+    },
+    {
+      "id": "9-22",
+      "chapter": 9,
+      "lt": "restoranas",
+      "tl": "restawran"
+    },
+    {
+      "id": "9-23",
+      "chapter": 9,
+      "lt": "baras",
+      "tl": "bar"
+    },
+    {
+      "id": "9-24",
+      "chapter": 9,
+      "lt": "picerija",
+      "tl": "pizzeria"
+    },
+    {
+      "id": "9-25",
+      "chapter": 9,
+      "lt": "padavėjas / padavėja",
+      "tl": "serbidor / serbidora"
+    },
+    {
+      "id": "9-26",
+      "chapter": 9,
+      "lt": "meniu",
+      "tl": "menu"
+    },
+    {
+      "id": "9-27",
+      "chapter": 9,
+      "lt": "dienos pietūs",
+      "tl": "set lunch / lunch special"
+    },
+    {
+      "id": "9-28",
+      "chapter": 9,
+      "lt": "staliukas",
+      "tl": "mesa / table"
+    },
+    {
+      "id": "9-29",
+      "chapter": 9,
+      "lt": "sąskaita",
+      "tl": "bill / tseke"
+    },
+    {
+      "id": "9-30",
+      "chapter": 9,
+      "lt": "patiekalas",
+      "tl": "putahe / ulam"
+    },
+    {
+      "id": "9-40",
+      "chapter": 9,
+      "lt": "sriuba",
+      "tl": "sopas"
+    },
+    {
+      "id": "9-41",
+      "chapter": 9,
+      "lt": "daržovių sriuba",
+      "tl": "gulay na sopas"
+    },
+    {
+      "id": "9-42",
+      "chapter": 9,
+      "lt": "grybų sriuba",
+      "tl": "sopas ng kabute / mushroom soup"
+    },
+    {
+      "id": "9-43",
+      "chapter": 9,
+      "lt": "burokėlių sriuba",
+      "tl": "beetroot soup"
+    },
+    {
+      "id": "9-44",
+      "chapter": 9,
+      "lt": "salotos",
+      "tl": "ensalada"
+    },
+    {
+      "id": "9-45",
+      "chapter": 9,
+      "lt": "daržovių salotos",
+      "tl": "ensaladang gulay"
+    },
+    {
+      "id": "9-46",
+      "chapter": 9,
+      "lt": "pomidorų salotos",
+      "tl": "ensaladang kamatis"
+    },
+    {
+      "id": "9-47",
+      "chapter": 9,
+      "lt": "kopūstų salotos",
+      "tl": "coleslaw / repolyo salad"
+    },
+    {
+      "id": "9-48",
+      "chapter": 9,
+      "lt": "lietuviškos salotos",
+      "tl": "Olivier / Russian salad style"
+    },
+    {
+      "id": "9-50",
+      "chapter": 9,
+      "lt": "omletas su sūriu",
+      "tl": "omelet na may keso"
+    },
+    {
+      "id": "9-51",
+      "chapter": 9,
+      "lt": "kiaušinienė su šonine",
+      "tl": "fried eggs na may bacon"
+    },
+    {
+      "id": "9-52",
+      "chapter": 9,
+      "lt": "kepsnys (vištienos/kiaulienos/jautienos)",
+      "tl": "inihaw/piniritong karne (manok/baboy/baka)"
+    },
+    {
+      "id": "9-53",
+      "chapter": 9,
+      "lt": "pica",
+      "tl": "pizza"
+    },
+    {
+      "id": "9-54",
+      "chapter": 9,
+      "lt": "blynai / blyneliai",
+      "tl": "pancake / crepe"
+    },
+    {
+      "id": "9-55",
+      "chapter": 9,
+      "lt": "makaronai su sūriu",
+      "tl": "pasta na may keso"
+    },
+    {
+      "id": "9-56",
+      "chapter": 9,
+      "lt": "ryžiai su daržovėmis",
+      "tl": "kanin na may gulay"
+    },
+    {
+      "id": "9-60",
+      "chapter": 9,
+      "lt": "ledai",
+      "tl": "sorbetes / ice cream"
+    },
+    {
+      "id": "9-61",
+      "chapter": 9,
+      "lt": "pyragaitis „Napoleonas“",
+      "tl": "Napoleon pastry"
+    },
+    {
+      "id": "9-62",
+      "chapter": 9,
+      "lt": "pyragas",
+      "tl": "pay"
+    },
+    {
+      "id": "9-63",
+      "chapter": 9,
+      "lt": "tortas",
+      "tl": "keyk"
+    },
+    {
+      "id": "9-70",
+      "chapter": 9,
+      "lt": "šaltibarščiai",
+      "tl": "cold beetroot soup (Lithuanian)"
+    },
+    {
+      "id": "9-71",
+      "chapter": 9,
+      "lt": "bulvių blynai",
+      "tl": "potato pancakes"
+    },
+    {
+      "id": "9-72",
+      "chapter": 9,
+      "lt": "cepelinai",
+      "tl": "potato dumplings with filling"
+    },
+    {
+      "id": "9-73",
+      "chapter": 9,
+      "lt": "šakotis",
+      "tl": "spit cake (Lithuanian)"
+    },
+    {
+      "id": "9-74",
+      "chapter": 9,
+      "lt": "medaus tortas",
+      "tl": "honey cake"
+    },
+    {
+      "id": "9-80",
+      "chapter": 9,
+      "lt": "vanduo (gazuotas/negazuotas)",
+      "tl": "tubig (may bula / wala)"
+    },
+    {
+      "id": "9-81",
+      "chapter": 9,
+      "lt": "arbata (juoda/žalia/vaisinė/mėtų)",
+      "tl": "tsaa (itim/berde/prutas/yerba buena)"
+    },
+    {
+      "id": "9-82",
+      "chapter": 9,
+      "lt": "kava (juoda, su pienu)",
+      "tl": "kape (itim, may gatas)"
+    },
+    {
+      "id": "9-83",
+      "chapter": 9,
+      "lt": "sultys (apelsinų/obuolių/ananasų/vynuogių/morkų/pomidorų)",
+      "tl": "katas/juice (kahel/mansanas/pinya/ubas/karot/kamatis)"
+    },
+    {
+      "id": "9-84",
+      "chapter": 9,
+      "lt": "kokteilis",
+      "tl": "shake / cocktail"
+    },
+    {
+      "id": "9-90",
+      "chapter": 9,
+      "lt": "actas",
+      "tl": "suka / sukaing puti"
+    },
+    {
+      "id": "9-91",
+      "chapter": 9,
+      "lt": "aliejus",
+      "tl": "mantika / oil"
+    },
+    {
+      "id": "9-92",
+      "chapter": 9,
+      "lt": "cukrus",
+      "tl": "asukal"
+    },
+    {
+      "id": "9-93",
+      "chapter": 9,
+      "lt": "druska",
+      "tl": "asin"
+    },
+    {
+      "id": "9-94",
+      "chapter": 9,
+      "lt": "garstyčios",
+      "tl": "mustasa / mustard"
+    },
+    {
+      "id": "9-95",
+      "chapter": 9,
+      "lt": "krienai",
+      "tl": "malunggay‑like? (horseradish)"
+    },
+    {
+      "id": "9-96",
+      "chapter": 9,
+      "lt": "majonezas",
+      "tl": "mayonesa"
+    },
+    {
+      "id": "9-97",
+      "chapter": 9,
+      "lt": "padažas",
+      "tl": "sarsa / sauce"
+    },
+    {
+      "id": "9-98",
+      "chapter": 9,
+      "lt": "uogienė",
+      "tl": "jam / minatamis na prutas"
+    },
+    {
+      "id": "9-100",
+      "chapter": 9,
+      "lt": "aštrus, aštri",
+      "tl": "maanghang / spicy"
+    },
+    {
+      "id": "9-101",
+      "chapter": 9,
+      "lt": "švelnus, švelni",
+      "tl": "banayad / mild"
+    },
+    {
+      "id": "9-102",
+      "chapter": 9,
+      "lt": "sūrus, sūri",
+      "tl": "maalat / salty"
+    }
+  ]
+}

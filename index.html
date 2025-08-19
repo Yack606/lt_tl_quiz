@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LT→TL Vocabulary Quiz</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>LT→TL Vocabulary Quiz</h1>
+      <p class="subtitle">Lithuanian → Tagalog • Chapters 1–9 (add your data in <code>data/vocab.json</code>)</p>
+    </header>
+
+    <section class="controls">
+      <label>
+        Mode:
+        <select id="mode">
+          <option value="flash">Flashcards</option>
+          <option value="mcq">Multiple Choice</option>
+          <option value="type">Type the Answer</option>
+        </select>
+      </label>
+      <label>
+        Direction:
+        <select id="direction">
+          <option value="lt2tl">LT → TL</option>
+          <option value="tl2lt">TL → LT</option>
+        </select>
+      </label>
+      <label>
+        Chapter:
+        <select id="chapter"></select>
+      </label>
+      <label>
+        Filter:
+        <select id="filter">
+          <option value="all">All words</option>
+          <option value="due">Due for review</option>
+          <option value="new">New words</option>
+        </select>
+      </label>
+      <button id="start">Start</button>
+      <button id="resetProgress" class="ghost">Reset Progress</button>
+    </section>
+
+    <section id="card" class="card hidden">
+      <div class="prompt" id="prompt">—</div>
+
+      <div id="mcqBox" class="hidden"></div>
+
+      <div id="typeBox" class="hidden">
+        <input id="typed" type="text" placeholder="Type your answer…" autocomplete="off"/>
+        <button id="check">Check</button>
+        <div id="typedFeedback"></div>
+      </div>
+
+      <div id="answer" class="answer hidden">—</div>
+
+      <div class="actions">
+        <button id="reveal">Reveal</button>
+        <div class="leitner hidden" id="leitnerBtns">
+          <button data-grade="0" class="bad">Again</button>
+          <button data-grade="1" class="hard">Hard</button>
+          <button data-grade="2" class="good">Good</button>
+          <button data-grade="3" class="easy">Easy</button>
+        </div>
+        <button id="next" class="hidden">Next</button>
+      </div>
+
+      <div id="progress" class="progress">0 / 0</div>
+    </section>
+
+    <footer>
+      <small>
+        Saved locally (localStorage). Edit <code>data/vocab.json</code> to add words.
+      </small>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
